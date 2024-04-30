@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "learn js",
+      "status": false
+    },
+    {
+      "id": "3",
+      "title": "learn node",
+      "status": false
+    },
+    {
+      "id": "2aa0",
+      "title": "learning crud",
+      "status": false
+    },
+    {
+      "id": "956c",
+      "title": "learning clean up  function",
+      "status": false
+    }
+  ]
+}
